@@ -62,7 +62,7 @@ window.ISSUES = [
   {
     "id": 11,
     "title": "تراث وثقافة (أدوات عُمانية)",
-    "image": "assets/pages/11.webp",
+    "image": "assets/pages/11.png",
     "thumb": "assets/thumbs/11.webp"
   },
   {
@@ -86,7 +86,7 @@ window.ISSUES = [
   {
     "id": 15,
     "title": "ألعاب ورياضات شعبية",
-    "image": "assets/pages/15.webp",
+    "image": "assets/pages/15.png",
     "thumb": "assets/thumbs/15.webp"
   },
   {
@@ -110,7 +110,7 @@ window.ISSUES = [
   {
     "id": 19,
     "title": "عُمان تاريخ وثقافة: مواقع أثرية",
-    "image": "assets/pages/19.webp",
+    "image": "assets/pages/19.png",
     "thumb": "assets/thumbs/19.webp"
   },
   {
