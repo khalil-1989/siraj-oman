@@ -74,7 +74,7 @@ window.ISSUES = [
   {
     "id": 13,
     "title": "تراث وثقافة: الأفلاج",
-    "image": "assets/pages/13.png",
+    "image": "assets/pages/13.webp",
     "thumb": "assets/thumbs/13.webp"
   },
   {
@@ -122,25 +122,25 @@ window.ISSUES = [
   {
     "id": 21,
     "title": "تراث وثقافة: لباس وزينة",
-    "image": "assets/pages/21.png",
+    "image": "assets/pages/21.webp",
     "thumb": "assets/thumbs/21.webp"
   },
   {
     "id": 22,
     "title": "الأرض العُمانية (الأودية والعيون)",
-    "image": "assets/pages/22.png",
+    "image": "assets/pages/22.webp",
     "thumb": "assets/thumbs/22.webp"
   },
   {
     "id": 23,
     "title": "عُمان تاريخ وثقافة: لهجة ولغة",
-    "image": "assets/pages/23.png",
+    "image": "assets/pages/23.webp",
     "thumb": "assets/thumbs/23.webp"
   },
   {
     "id": 24,
     "title": "المملكة النباتية: مملكات الموسوعة",
-    "image": "assets/pages/24.png",
+    "image": "assets/pages/25.webp",
     "thumb": "assets/thumbs/24.webp"
   },
   {
