@@ -14,7 +14,7 @@ window.ISSUES = [
   {
     "id": 3,
     "title": "تراث وثقافة: مواقع أثرية",
-    "image": "assets/pages/3.png",
+    "image": "assets/pages/3.webp",
     "thumb": "assets/thumbs/3.webp"
   },
   {
