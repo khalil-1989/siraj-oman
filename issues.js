@@ -140,7 +140,7 @@ window.ISSUES = [
   {
     "id": 24,
     "title": "المملكة النباتية: مملكات الموسوعة",
-    "image": "assets/pages/25.webp",
+    "image": "assets/pages/24.webp",
     "thumb": "assets/thumbs/24.webp"
   },
   {
