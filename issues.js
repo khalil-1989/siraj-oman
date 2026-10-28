@@ -148,5 +148,35 @@ window.ISSUES = [
     "title": "تراث وثقافة: عادات عُمانية",
     "image": "assets/pages/25.png",
     "thumb": "assets/thumbs/25.webp"
+  },
+  {
+    "id": 26,
+    "title": "النخلة (أميرة الصحراء)",
+    "image": "assets/pages/26.png",
+    "thumb": "assets/thumbs/26.webp"
+  },
+  {
+    "id": 27,
+    "title": "أدوات ومنافع",
+    "image": "assets/pages/27.png",
+    "thumb": "assets/thumbs/27.webp"
+  },
+  {
+    "id": 28,
+    "title": "أزمة الفحم",
+    "image": "assets/pages/28.png",
+    "thumb": "assets/thumbs/28.webp"
+  },
+  {
+    "id": 29,
+    "title": "المؤثرون",
+    "image": "assets/pages/29.png",
+    "thumb": "assets/thumbs/29.webp"
+  },
+  {
+    "id": 30,
+    "title": "كلمة سراج الأخيرة إلى القراء",
+    "image": "assets/pages/30.png",
+    "thumb": "assets/thumbs/30.webp"
   }
 ];
